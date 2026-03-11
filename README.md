@@ -1,5 +1,5 @@
 # astrOS
-an ai-native operating system. talk to your computer in plain english.                                              .
+an ai-native operating system. talk to your computer in plain english.                                             
 
 ## what is it?
 astrOS replaces the traditional OS interface with an ai (or at least it is in development to do so). instead of clicking through menus and remembering commands, you just say what you want.
