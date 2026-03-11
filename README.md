@@ -18,9 +18,11 @@ astrOS replaces the traditional OS interface with an ai (or at least it is in de
 
 ## Run it yourself
 install [Ollama](https://ollama.com) and pull the model:
+'''
 ollama pull qwen2.5-coder:7b
 pip install ollama
 python main.py
+'''
 
 ## Vision
 a lightweight, beautiful, ai-first OS. no bloat. just you and your computer, finally speaking the same language simplistically.
